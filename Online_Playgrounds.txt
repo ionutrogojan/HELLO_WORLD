@@ -1,7 +1,10 @@
+BASIC - https://virtualconsoles.com/online-emulators/c64/
 C/C++ - https://cplayground.com/
-Rust - https://play.rust-lang.org/
 C# - https://dotnetfiddle.net/
-Kotlin - https://play.kotlinlang.org/
-Swift - https://swiftfiddle.com/
 Java - https://www.jdoodle.com/online-java-compiler/
 JavaScript - https://jscomplete.com/playground
+Kotlin - https://play.kotlinlang.org/
+Objective-C - https://rextester.com/l/objectivec_online_compiler
+Python - https://pythonandturtle.com/
+Rust - https://play.rust-lang.org/
+Swift - https://swiftfiddle.com/
