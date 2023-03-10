@@ -1,3 +1,5 @@
+; Hello World - Assembly x86_64
+
 global _start
 
 section .text
@@ -16,3 +18,5 @@ _start:
 section .rodata
 	msg: db "Hello World, Assembly", 10
 	msglen: equ $ - msg
+
+; playground: 

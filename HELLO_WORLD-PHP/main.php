@@ -4,3 +4,5 @@
     $greeting = "Hello World, PHP.";
     echo $greeting;
 ?>
+
+<!-- playground: https://sandbox.onlinephpfunctions.com/ -->
