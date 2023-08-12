@@ -2,9 +2,9 @@
 
 #include <stdio.h>
 
-int main() {
-    char greeting[] = "Hello World 1, C.";
-    printf("%s", greeting);
+int main(void) {
+    char greeting[] = "Hello World, C.";
+    printf("%s\n", greeting);
     return 0;
 }
 
