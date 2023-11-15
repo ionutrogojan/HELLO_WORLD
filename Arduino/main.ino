@@ -1,6 +1,6 @@
 // Hello World - Arduino
 
-char greeting[] = "Hello World 1, Arduino.";
+char* greeting = "Hello World, Arduino!";
 
 void setup() {
     Serial.begin(9600);

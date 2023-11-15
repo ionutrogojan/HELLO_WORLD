@@ -5,7 +5,7 @@ package main
 import "fmt"
 
 func main() {
-	var greeting = "Hello World, GO."
+	var greeting = "Hello World, GO!"
 	fmt.Println(greeting)
 }
 

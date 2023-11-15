@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 int main(void) {
-    char greeting[] = "Hello World, C.";
+    char* greeting = "Hello World, C!";
     printf("%s\n", greeting);
     return 0;
 }
