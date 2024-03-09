@@ -7,5 +7,3 @@ int main(void) {
     printf("%s\n", greeting);
     return 0;
 }
-
-// playground: https://cplayground.com/

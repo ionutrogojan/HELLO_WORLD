@@ -10,5 +10,3 @@ void setup() {
 void loop() {
 
 }
-
-// playground: https://wokwi.com/arduino/new?template=arduino-uno
